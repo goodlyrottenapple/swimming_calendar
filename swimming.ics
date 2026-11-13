@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//Active Leicester Swimming Sync//EN
 X-WR-CALNAME:Active Leicester Swimming
 BEGIN:VEVENT
-SUMMARY:Aqua Aerobics
-DTSTART:20261112T123000Z
-DTEND:20261112T131459Z
-UID:gladstone-AL4GXAA12300926-2026-11-12T12:30:00Z@activeleicester
-DESCRIPTION:Spaces Remaining: 2\n\nAqua aerobics is a class performed in w
- ater to music and great for those who wishing to exercise without high imp
- act. Water is a fantastic resistance tool for a whole body workout!\n\nBoo
- k session: https://activeleicester.gladstonego.cloud/book
-LOCATION:Aylestone Leisure Centre - Teaching Pool
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:General Swim
 DTSTART:20261113T100000Z
 DTEND:20261113T105959Z
@@ -174,10 +163,33 @@ LOCATION:Aylestone Leisure Centre - Teaching Pool
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General Swim
-DTSTART:20261112T120000Z
-DTEND:20261112T125959Z
-UID:gladstone-AL4MPGS12000925-2026-11-12T12:00:00Z@activeleicester
-DESCRIPTION:Spaces Remaining: 27\n\nChildren under 8 must be with a parent
+DTSTART:20261120T100000Z
+DTEND:20261120T105959Z
+UID:gladstone-ALMPGS10000925-2026-11-20T10:00:00Z@activeleicester
+DESCRIPTION:Spaces Remaining: 30\n\nChildren under 8 must be with a parent
+  or responsible adult (16+) in the water. One adult may supervise up to 2 
+ children under 8. Non-swimmers stay in specified areas. Shower before and 
+ after swimming.\n\nBook session: https://activeleicester.gladstonego.cloud
+ /book
+LOCATION:Aylestone Leisure Centre - Main Pool Lane 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aqua Aerobics
+DTSTART:20261120T103000Z
+DTEND:20261120T111459Z
+UID:gladstone-ALC5GXA10300226-2026-11-20T10:30:00Z@activeleicester
+DESCRIPTION:Spaces Remaining: 12\n\nAqua aerobics is a class performed in 
+ water to music and great for those who wishing to exercise without high im
+ pact. Water is a fantastic resistance tool for a whole body workout!\n\nBo
+ ok session: https://activeleicester.gladstonego.cloud/book
+LOCATION:Aylestone Leisure Centre - Teaching Pool
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Swim
+DTSTART:20261120T110000Z
+DTEND:20261120T115959Z
+UID:gladstone-ALMPGS11000925-2026-11-20T11:00:00Z@activeleicester
+DESCRIPTION:Spaces Remaining: 30\n\nChildren under 8 must be with a parent
   or responsible adult (16+) in the water. One adult may supervise up to 2 
  children under 8. Non-swimmers stay in specified areas. Shower before and 
  after swimming.\n\nBook session: https://activeleicester.gladstonego.cloud
@@ -186,10 +198,10 @@ LOCATION:Aylestone Leisure Centre - Main Pool Lane 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General Swim
-DTSTART:20261112T130000Z
-DTEND:20261112T135959Z
-UID:gladstone-AL4MPGS13000925-2026-11-12T13:00:00Z@activeleicester
-DESCRIPTION:Spaces Remaining: 27\n\nChildren under 8 must be with a parent
+DTSTART:20261120T120000Z
+DTEND:20261120T125959Z
+UID:gladstone-ALMPGS12000925-2026-11-20T12:00:00Z@activeleicester
+DESCRIPTION:Spaces Remaining: 30\n\nChildren under 8 must be with a parent
   or responsible adult (16+) in the water. One adult may supervise up to 2 
  children under 8. Non-swimmers stay in specified areas. Shower before and 
  after swimming.\n\nBook session: https://activeleicester.gladstonego.cloud
@@ -198,10 +210,10 @@ LOCATION:Aylestone Leisure Centre - Main Pool Lane 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General Swim
-DTSTART:20261112T140000Z
-DTEND:20261112T145959Z
-UID:gladstone-AL4MPGS14000925-2026-11-12T14:00:00Z@activeleicester
-DESCRIPTION:Spaces Remaining: 29\n\nChildren under 8 must be with a parent
+DTSTART:20261120T130000Z
+DTEND:20261120T135959Z
+UID:gladstone-ALMPGS13000925-2026-11-20T13:00:00Z@activeleicester
+DESCRIPTION:Spaces Remaining: 30\n\nChildren under 8 must be with a parent
   or responsible adult (16+) in the water. One adult may supervise up to 2 
  children under 8. Non-swimmers stay in specified areas. Shower before and 
  after swimming.\n\nBook session: https://activeleicester.gladstonego.cloud
@@ -210,10 +222,22 @@ LOCATION:Aylestone Leisure Centre - Main Pool Lane 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General Swim
-DTSTART:20261112T150000Z
-DTEND:20261112T155959Z
-UID:gladstone-AL4MPGS15000925-2026-11-12T15:00:00Z@activeleicester
-DESCRIPTION:Spaces Remaining: 29\n\nChildren under 8 must be with a parent
+DTSTART:20261120T140000Z
+DTEND:20261120T145959Z
+UID:gladstone-ALMPGS14000925-2026-11-20T14:00:00Z@activeleicester
+DESCRIPTION:Spaces Remaining: 30\n\nChildren under 8 must be with a parent
+  or responsible adult (16+) in the water. One adult may supervise up to 2 
+ children under 8. Non-swimmers stay in specified areas. Shower before and 
+ after swimming.\n\nBook session: https://activeleicester.gladstonego.cloud
+ /book
+LOCATION:Aylestone Leisure Centre - Main Pool Lane 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Swim
+DTSTART:20261120T150000Z
+DTEND:20261120T155959Z
+UID:gladstone-ALMPGS15000925-2026-11-20T15:00:00Z@activeleicester
+DESCRIPTION:Spaces Remaining: 30\n\nChildren under 8 must be with a parent
   or responsible adult (16+) in the water. One adult may supervise up to 2 
  children under 8. Non-swimmers stay in specified areas. Shower before and 
  after swimming.\n\nBook session: https://activeleicester.gladstonego.cloud
@@ -389,36 +413,15 @@ DESCRIPTION:Spaces Remaining: 30\n\nChildren under 8 must be with a parent
 LOCATION:Aylestone Leisure Centre - Main Pool Lane 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lane Swim
-DTSTART:20261112T070000Z
-DTEND:20261112T075959Z
-UID:gladstone-AL4MPLS07001124-2026-11-12T07:00:00Z@activeleicester
-DESCRIPTION:Spaces Remaining: 18\n\nLane Swimming is for continuous swimmi
- ng along the pool length. Children under 8 must be with a parent or respon
- sible adult (16+) in the water. Shower before and after swimming.\n\nBook 
- session: https://activeleicester.gladstonego.cloud/book
-LOCATION:Aylestone Leisure Centre - Main Pool Lane 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lane Swim
-DTSTART:20261112T080000Z
-DTEND:20261112T085959Z
-UID:gladstone-AL4MPLS08001124-2026-11-12T08:00:00Z@activeleicester
-DESCRIPTION:Spaces Remaining: 23\n\nLane Swimming is for continuous swimmi
- ng along the pool length. Children under 8 must be with a parent or respon
- sible adult (16+) in the water. Shower before and after swimming.\n\nBook 
- session: https://activeleicester.gladstonego.cloud/book
-LOCATION:Aylestone Leisure Centre - Main Pool Lane 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lane Swim
-DTSTART:20261112T190000Z
-DTEND:20261112T195959Z
-UID:gladstone-AL4MPGS19001124-2026-11-12T19:00:00Z@activeleicester
-DESCRIPTION:Spaces Remaining: 23\n\nLane Swimming is for continuous swimmi
- ng along the pool length. Children under 8 must be with a parent or respon
- sible adult (16+) in the water. Shower before and after swimming.\n\nBook 
- session: https://activeleicester.gladstonego.cloud/book
+SUMMARY:General Swim
+DTSTART:20261120T190000Z
+DTEND:20261120T195959Z
+UID:gladstone-AL5MPGS19001124-2026-11-20T19:00:00Z@activeleicester
+DESCRIPTION:Spaces Remaining: 35\n\nChildren under 8 must be with a parent
+  or responsible adult (16+) in the water. One adult may supervise up to 2 
+ children under 8. Non-swimmers stay in specified areas. Shower before and 
+ after swimming.\n\nBook session: https://activeleicester.gladstonego.cloud
+ /book
 LOCATION:Aylestone Leisure Centre - Main Pool Lane 1
 END:VEVENT
 BEGIN:VEVENT
@@ -728,6 +731,40 @@ DESCRIPTION:Spaces Remaining: 24\n\nLane Swimming is for continuous swimmi
 LOCATION:Aylestone Leisure Centre - Main Pool Lane 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lane Swim
+DTSTART:20261120T070000Z
+DTEND:20261120T075959Z
+UID:gladstone-AL5MPLS07001124-2026-11-20T07:00:00Z@activeleicester
+DESCRIPTION:Spaces Remaining: 24\n\nLane Swimming is for continuous swimmi
+ ng along the pool length. Children under 8 must be with a parent or respon
+ sible adult (16+) in the water. Shower before and after swimming.\n\nBook 
+ session: https://activeleicester.gladstonego.cloud/book
+LOCATION:Aylestone Leisure Centre - Main Pool Lane 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lane Swim
+DTSTART:20261120T080000Z
+DTEND:20261120T085959Z
+UID:gladstone-AL5MPLS08001124-2026-11-20T08:00:00Z@activeleicester
+DESCRIPTION:Spaces Remaining: 24\n\nLane Swimming is for continuous swimmi
+ ng along the pool length. Children under 8 must be with a parent or respon
+ sible adult (16+) in the water. Shower before and after swimming.\n\nBook 
+ session: https://activeleicester.gladstonego.cloud/book
+LOCATION:Aylestone Leisure Centre - Main Pool Lane 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parent & Toddler Swim
+DTSTART:20261120T120000Z
+DTEND:20261120T125959Z
+UID:gladstone-AL5TPTS12001124-2026-11-20T12:00:00Z@activeleicester
+DESCRIPTION:Spaces Remaining: 18\n\nA fun session for pre-school aged chil
+ dren. Children under 8 must be with a parent or adult (16+) in the water. 
+ One adult may supervise up to 2 children under 8. Swim nappies required fo
+ r those not yet toilet trained.\n\nBook session: https://activeleicester.g
+ ladstonego.cloud/book
+LOCATION:Aylestone Leisure Centre - Teaching Pool
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Parent And Toddler Swim
 DTSTART:20261113T133000Z
 DTEND:20261113T142959Z
@@ -771,6 +808,18 @@ DESCRIPTION:Spaces Remaining: 18\n\nA fun session for pre-school aged chil
  One adult may supervise up to 2 children under 8. Swim nappies required fo
  r those not yet toilet trained.\n\n\nBook session: https://activeleicester
  .gladstonego.cloud/book
+LOCATION:Aylestone Leisure Centre - Teaching Pool
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parent And Toddler Swim
+DTSTART:20261120T133000Z
+DTEND:20261120T142959Z
+UID:gladstone-AL5SPTS13301026-2026-11-20T13:30:00Z@activeleicester
+DESCRIPTION:Spaces Remaining: 18\n\nA fun session for pre-school aged chil
+ dren. Children under 8 must be with a parent or adult (16+) in the water. 
+ One adult may supervise up to 2 children under 8. Swim nappies required fo
+ r those not yet toilet trained.\n\nBook session: https://activeleicester.g
+ ladstonego.cloud/book
 LOCATION:Aylestone Leisure Centre - Teaching Pool
 END:VEVENT
 END:VCALENDAR
